@@ -1,4 +1,5 @@
 # SPDX-License-Identifier: GPL-2.0
+# goodcommit
 VERSION = 6
 PATCHLEVEL = 10
 SUBLEVEL = 0
